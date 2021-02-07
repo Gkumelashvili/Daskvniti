@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bookapp</string>
+    <!--    <string name="default_web_client_id">300837770915-g5d68tqkb5i7dpn1jdajkaqkbcok7hrq.apps.googleusercontent.com</string>-->
+    <string name="name1">გიორგი კინკრიაშვილი</string>
+    <string name="name2">გიორგი ქუმელაშვილი</string>
+    <string name="name3">Book App</string>
+    <string name="name4">აპლიკაცია იტვირთება...</string>
+
+</resources>
